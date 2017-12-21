@@ -1,0 +1,4 @@
+[submodule "example-repo"]
+	path = example-repo
+	url = ./
+	branch = example-repo
