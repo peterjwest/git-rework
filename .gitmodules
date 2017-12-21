@@ -1,4 +1,4 @@
 [submodule "example-repo"]
 	path = example-repo
-	url = ./
+	url = git@github.com:peterjwest/git-rework.git
 	branch = example-repo
