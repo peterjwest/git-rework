@@ -1,3 +1,7 @@
 Code line 1
-Code line 2
+Import B
+Code line 2a
 Code line 3
+Code line 4
+Import F
+Code line 5
